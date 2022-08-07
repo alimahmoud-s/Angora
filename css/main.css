@@ -46,7 +46,6 @@ nlink:hover {
 .carousel-caption h1 {
   font-size: 70px;
 }
-
 .arrow {
   z-index: 3;
   width: 3%;
@@ -293,4 +292,23 @@ form button:hover {
 }
 .footer-icons a:hover {
   color: #f25454 !important;
+}
+
+.img1{
+  background-image: url(../images/slideshow-1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100vh !important;
+}
+.img2{
+  background-image: url(../images/slideshow-2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100vh !important;
+}
+.img3{
+  background-image: url(../images/slideshow-3.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 100vh !important;
 }
